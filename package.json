@@ -27,7 +27,7 @@
   "homepage": "https://github.com/decentraland/decentraland-crypto-utils#readme",
   "devDependencies": {
     "prettier": "^1.19.1",
-    "semantic-release": "^16.0.1",
+    "semantic-release": "^17.2.3",
     "typechain": "^2.0.0",
     "typechain-target-web3-v1": "^1.0.4",
     "typescript": "^3.9.3"
